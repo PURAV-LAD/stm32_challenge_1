@@ -6,6 +6,8 @@
 4. Commit and push
 5. Send link in comment on the annoucement video
 
+See formal rules at https://stm32world.com/
+
 Submit comment before Mar. 1st, 2026
 
 Smallest binary win 1 Streamline Backplane, 1 Streamline connect and 1 mcu board
